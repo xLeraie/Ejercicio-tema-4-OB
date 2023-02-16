@@ -1,4 +1,4 @@
-public class ejercicio () {
+public class ejercicio {
     public static void main (String[] args) {
 
         // Variables
@@ -51,5 +51,5 @@ public class ejercicio () {
         }
 
 
+     } 
     }
-}
